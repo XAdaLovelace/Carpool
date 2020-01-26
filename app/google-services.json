@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "578682085759",
+    "firebase_url": "https://alphaver-8f711.firebaseio.com",
+    "project_id": "alphaver-8f711",
+    "storage_bucket": "alphaver-8f711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578682085759:android:f8e3fdae41db3ae529fa4a",
+        "android_client_info": {
+          "package_name": "com.example.user.alphaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578682085759-g5bqdji1ommdmcud4j5c7chhli9j2cqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.alphaver",
+            "certificate_hash": "4f0e2822b19f8a10a649738768fdb315db3a1a27"
+          }
+        },
+        {
+          "client_id": "578682085759-eem0cpbtmndkeqb3r0dk5ui07md9esj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-A9LROd8em5kiupo62lU9NadYzDJRmds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578682085759-eem0cpbtmndkeqb3r0dk5ui07md9esj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
