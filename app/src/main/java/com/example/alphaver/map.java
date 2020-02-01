@@ -282,7 +282,7 @@ public class map extends FragmentActivity implements
 
     }
 
-
+   //functions
     @Override
     public void onConnected(@Nullable Bundle bundle) {
 
